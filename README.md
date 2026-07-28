@@ -19,18 +19,15 @@ Aqui compartilho minha evolução por meio de projetos práticos desenvolvidos d
 
 Conquistar minha primeira oportunidade como desenvolvedora back-end Java e continuar evoluindo por meio de projetos e aprendizado contínuo.
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ta-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-##
-
 ## Conecte-se comigo
 
 <div> 
  <a href="https://www.linkedin.com/in/talita-barros-1240741a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Ta-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
 
 
